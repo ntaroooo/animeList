@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 
-import {BrowserRouter, Route, Link, Router} from 'react-router-dom';
+
 import './App.css';
-import {Battle} from './component/Battle';
+
 
 
 
