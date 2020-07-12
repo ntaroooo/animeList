@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/testreact/static/css/main.d695a422.chunk.css",
-    "main.js": "/testreact/static/js/main.fb8800ea.chunk.js",
-    "main.js.map": "/testreact/static/js/main.fb8800ea.chunk.js.map",
-    "runtime-main.js": "/testreact/static/js/runtime-main.b1e4199e.js",
-    "runtime-main.js.map": "/testreact/static/js/runtime-main.b1e4199e.js.map",
-    "static/js/2.28500325.chunk.js": "/testreact/static/js/2.28500325.chunk.js",
-    "static/js/2.28500325.chunk.js.map": "/testreact/static/js/2.28500325.chunk.js.map",
-    "index.html": "/testreact/index.html",
-    "precache-manifest.b43cf0732eb196d32c6ce1d4e2083b92.js": "/testreact/precache-manifest.b43cf0732eb196d32c6ce1d4e2083b92.js",
-    "service-worker.js": "/testreact/service-worker.js",
-    "static/css/main.d695a422.chunk.css.map": "/testreact/static/css/main.d695a422.chunk.css.map",
-    "static/js/2.28500325.chunk.js.LICENSE.txt": "/testreact/static/js/2.28500325.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/testreact/static/media/kimetsu.5d697f97.jpg"
+    "main.css": "/animelist/static/css/main.da7b2789.chunk.css",
+    "main.js": "/animelist/static/js/main.aefef02b.chunk.js",
+    "main.js.map": "/animelist/static/js/main.aefef02b.chunk.js.map",
+    "runtime-main.js": "/animelist/static/js/runtime-main.f05399e6.js",
+    "runtime-main.js.map": "/animelist/static/js/runtime-main.f05399e6.js.map",
+    "static/js/2.28500325.chunk.js": "/animelist/static/js/2.28500325.chunk.js",
+    "static/js/2.28500325.chunk.js.map": "/animelist/static/js/2.28500325.chunk.js.map",
+    "index.html": "/animelist/index.html",
+    "precache-manifest.947d8da8333625b297d5aa33067c2349.js": "/animelist/precache-manifest.947d8da8333625b297d5aa33067c2349.js",
+    "service-worker.js": "/animelist/service-worker.js",
+    "static/css/main.da7b2789.chunk.css.map": "/animelist/static/css/main.da7b2789.chunk.css.map",
+    "static/js/2.28500325.chunk.js.LICENSE.txt": "/animelist/static/js/2.28500325.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/animelist/static/media/kimetsu.5d697f97.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1e4199e.js",
+    "static/js/runtime-main.f05399e6.js",
     "static/js/2.28500325.chunk.js",
-    "static/css/main.d695a422.chunk.css",
-    "static/js/main.fb8800ea.chunk.js"
+    "static/css/main.da7b2789.chunk.css",
+    "static/js/main.aefef02b.chunk.js"
   ]
 }
