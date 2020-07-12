@@ -29,7 +29,7 @@ body{
 
 .title1{
   display: table-cell;      
-  background-color: #222e35; 
+  background-color: #2d434e; 
   color: aqua;
   padding: 10px;       
   
@@ -51,13 +51,13 @@ h1{
   text-align: center;
   width: 50%;
   font-size: 1.0em;
-  border-radius: 8px;
-  background: linear-gradient(145deg, #29373f, #222e35);
-  box-shadow:  4px 4px 9px #1e282f, 
-             -4px -4px 9px #2e3e47;
+  border-radius: 43px;
+  border-radius: 43px;
+  background: linear-gradient(145deg, #293c46, #304853);
+  box-shadow:  12px 12px 24px #263942, 
+             -12px -12px 24px #344d5a;
 }
-
-button{
+  button{
   font-size: 45px;
   border-radius: 8px;
   background: linear-gradient(145deg, #29373f, #222e35);
