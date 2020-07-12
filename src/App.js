@@ -69,7 +69,7 @@ const Left = () => {
 const Title = () => {
   return(
     <div className="title1">
-      <h1>Anime resercher</h1>
+      <h1>Anime researcher</h1>
       <Search />
       <Tagu />
       
