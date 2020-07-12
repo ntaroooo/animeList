@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import {BrowserRouter, Route, Link, Router} from 'react-router-dom';
 
 import './App.css';
 
@@ -87,10 +87,10 @@ const Tagu = () => {
     {"name": "This term"},
     {"name": "My favorite"}
   ]
-      /*return(
+      return(
         <div className="tagu">
          
-          <BrowserRouter>
+          {/*<BrowserRouter>
           <div className="list">
             <Link to="/battle">Battle</Link>
             <Route  path="/battle" component={Battle} />
@@ -98,8 +98,10 @@ const Tagu = () => {
             
             
           </div>
-          </BrowserRouter>
-          
+          </BrowserRouter>*/}
+           <div className="list">
+            Battle
+          </div>
           <div className="list">
             Romantic
           </div>
@@ -117,12 +119,12 @@ const Tagu = () => {
           </div>
          
         </div>
-      )*/
-    return(
+      )
+   /* return(
       <div className="tagu">
         <button>Battle</button>
       </div>
-    )
+    )*/
  /* return(
     <div className="tagu">
       <BrowserRouter>
