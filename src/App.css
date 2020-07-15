@@ -58,12 +58,31 @@ h1{
              -12px -12px 24px #344d5a;
 }
   button{
-  font-size: 45px;
-  border-radius: 8px;
-  background: linear-gradient(145deg, #29373f, #222e35);
-  box-shadow:  4px 4px 9px #1e282f, 
-             -4px -4px 9px #2e3e47;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    border: none;
+    color: aqua;
+    font-family:'Noto Serif SC',serif;
+    outline: none;
+    cursor: pointer;
+    width: 50%;
+    font-size: 1.0em;
+    border-radius: 43px;
+    border-radius: 43px;
+    background: linear-gradient(145deg, #293c46, #304853);
+    box-shadow:  12px 12px 24px #263942, 
+               -12px -12px 24px #344d5a;
 }
+
+button:active{
+  border-radius: 50px;
+  background: #2d434e;
+  box-shadow: inset 20px 20px 60px #263942, 
+              inset -20px -20px 60px #344d5a;
+
+}
+
 #search-input{
   width: 75%; 
   padding: 10px 15px; 

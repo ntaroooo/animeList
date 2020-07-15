@@ -2,22 +2,43 @@ import React, { Component } from 'react';
 import {BrowserRouter, Route, Link, Router} from 'react-router-dom';
 
 import './App.css';
+import TitlebarGridList from './component/animelistpage';
+import Main from './component/mainpage';
 
 
 
 
 class App extends Component {
-  render(){   
+
+ 
+
+
+
+  /*render(){   
     return (
       <div className="App">
-      
+        <BrowserRouter>
+
         <Left />
         <Title />
-      
+        </BrowserRouter>
       
       </div>
     );
-  }
+  }*/
+
+    render(){
+      return(
+        <BrowserRouter>
+           <switch>
+
+
+            <Route exact path="/animelist" component={Main} />
+            <Route  path="/animelistpage" component={TitlebarGridList} />
+           </switch>
+        </BrowserRouter>
+      )
+    }
 }
 
 /*const App = () => (
@@ -99,9 +120,13 @@ const Tagu = () => {
             
           </div>
           </BrowserRouter>*/}
-           <div className="list">
-            Battle
-          </div>
+          
+            <Link to = "/animelistpage">
+              <button >Battle</button>
+            </Link>
+            <Route path="/animelistpage" component={TitlebarGridList}/>
+          
+          
           <div className="list">
             Romantic
           </div>
