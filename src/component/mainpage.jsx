@@ -106,7 +106,7 @@ const Tagu = () => {
           </div>
           </BrowserRouter>*/}
           
-            <Link to = "/animelistpage">
+            <Link to = "/gridlist">
               <button >Battle</button>
             </Link>
             

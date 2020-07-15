@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import {BrowserRouter, Route, Link, Router} from 'react-router-dom';
 
 import './App.css';
-import TitlebarGridList from './component/animelistpage';
-import Main from './component/mainpage';
+import TitlebarGridList from './component/animelistpage.jsx';
+import Main from './component/mainpage.jsx';
 
 
 
@@ -30,12 +30,12 @@ class App extends Component {
     render(){
       return(
         <BrowserRouter>
-           <switch>
+           
 
 
-            <Route exact path="/animelist" component={Main} />
-            <Route  path="/animelistpage" component={TitlebarGridList} />
-           </switch>
+            <Route  exact path="/" component={Main} />
+            <Route  path="/gridlist" component={TitlebarGridList} />
+          
         </BrowserRouter>
       )
     }
