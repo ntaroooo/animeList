@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/animelist/static/css/main.09691ae7.chunk.css",
-    "main.js": "/animelist/static/js/main.1e0850c2.chunk.js",
-    "main.js.map": "/animelist/static/js/main.1e0850c2.chunk.js.map",
+    "main.js": "/animelist/static/js/main.aeee82e0.chunk.js",
+    "main.js.map": "/animelist/static/js/main.aeee82e0.chunk.js.map",
     "runtime-main.js": "/animelist/static/js/runtime-main.f05399e6.js",
     "runtime-main.js.map": "/animelist/static/js/runtime-main.f05399e6.js.map",
-    "static/js/2.9526350b.chunk.js": "/animelist/static/js/2.9526350b.chunk.js",
-    "static/js/2.9526350b.chunk.js.map": "/animelist/static/js/2.9526350b.chunk.js.map",
+    "static/js/2.aed34e70.chunk.js": "/animelist/static/js/2.aed34e70.chunk.js",
+    "static/js/2.aed34e70.chunk.js.map": "/animelist/static/js/2.aed34e70.chunk.js.map",
     "index.html": "/animelist/index.html",
-    "precache-manifest.39c747e042cf1ebaee87cdd041123e50.js": "/animelist/precache-manifest.39c747e042cf1ebaee87cdd041123e50.js",
+    "precache-manifest.e8efd9a39506916e1e8f6c346ce436f7.js": "/animelist/precache-manifest.e8efd9a39506916e1e8f6c346ce436f7.js",
     "service-worker.js": "/animelist/service-worker.js",
     "static/css/main.09691ae7.chunk.css.map": "/animelist/static/css/main.09691ae7.chunk.css.map",
-    "static/js/2.9526350b.chunk.js.LICENSE.txt": "/animelist/static/js/2.9526350b.chunk.js.LICENSE.txt",
+    "static/js/2.aed34e70.chunk.js.LICENSE.txt": "/animelist/static/js/2.aed34e70.chunk.js.LICENSE.txt",
     "static/media/blackklover.png": "/animelist/static/media/blackklover.65bf74ab.png",
-    "static/media/hagaren.jpeg": "/animelist/static/media/hagaren.35e63f5c.jpeg",
+    "static/media/hagaren2.jpg": "/animelist/static/media/hagaren2.ea368bda.jpg",
     "static/media/kimetsu.jpg": "/animelist/static/media/kimetsu.5d697f97.jpg",
     "static/media/logo.svg": "/animelist/static/media/logo.5d5d9eef.svg",
-    "static/media/mahouka.jpg": "/animelist/static/media/mahouka.8c1bb8da.jpg",
-    "static/media/sao.jpg": "/animelist/static/media/sao.6a46d1e4.jpg",
-    "static/media/tenseisitarasuraimu.jpg": "/animelist/static/media/tenseisitarasuraimu.25e7a5e3.jpg"
+    "static/media/mahouka2.jpg": "/animelist/static/media/mahouka2.3371ad56.jpg",
+    "static/media/sao2.jpg": "/animelist/static/media/sao2.d99b46b4.jpg",
+    "static/media/tensura2.jpg": "/animelist/static/media/tensura2.b2beaac9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f05399e6.js",
-    "static/js/2.9526350b.chunk.js",
+    "static/js/2.aed34e70.chunk.js",
     "static/css/main.09691ae7.chunk.css",
-    "static/js/main.1e0850c2.chunk.js"
+    "static/js/main.aeee82e0.chunk.js"
   ]
 }
