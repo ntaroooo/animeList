@@ -33,7 +33,7 @@ class App extends Component {
            
 
 
-            <Route  exact path="/" component={Main} />
+            <Route  exact path="/animelist" component={Main} />
             <Route  path="/gridlist" component={TitlebarGridList} />
           
         </BrowserRouter>
