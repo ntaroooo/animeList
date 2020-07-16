@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/animelist/static/css/main.09691ae7.chunk.css",
-    "main.js": "/animelist/static/js/main.aeee82e0.chunk.js",
-    "main.js.map": "/animelist/static/js/main.aeee82e0.chunk.js.map",
+    "main.js": "/animelist/static/js/main.50433c34.chunk.js",
+    "main.js.map": "/animelist/static/js/main.50433c34.chunk.js.map",
     "runtime-main.js": "/animelist/static/js/runtime-main.f05399e6.js",
     "runtime-main.js.map": "/animelist/static/js/runtime-main.f05399e6.js.map",
     "static/js/2.aed34e70.chunk.js": "/animelist/static/js/2.aed34e70.chunk.js",
     "static/js/2.aed34e70.chunk.js.map": "/animelist/static/js/2.aed34e70.chunk.js.map",
     "index.html": "/animelist/index.html",
-    "precache-manifest.e8efd9a39506916e1e8f6c346ce436f7.js": "/animelist/precache-manifest.e8efd9a39506916e1e8f6c346ce436f7.js",
+    "precache-manifest.f2ff54fc2b8eef114327282346387334.js": "/animelist/precache-manifest.f2ff54fc2b8eef114327282346387334.js",
     "service-worker.js": "/animelist/service-worker.js",
     "static/css/main.09691ae7.chunk.css.map": "/animelist/static/css/main.09691ae7.chunk.css.map",
     "static/js/2.aed34e70.chunk.js.LICENSE.txt": "/animelist/static/js/2.aed34e70.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.f05399e6.js",
     "static/js/2.aed34e70.chunk.js",
     "static/css/main.09691ae7.chunk.css",
-    "static/js/main.aeee82e0.chunk.js"
+    "static/js/main.50433c34.chunk.js"
   ]
 }
